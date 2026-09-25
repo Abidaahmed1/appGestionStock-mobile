@@ -22,3 +22,5 @@ Thumbs.db
 
 # Workspace projects
 appGestionStock/
+
+node_modules/
